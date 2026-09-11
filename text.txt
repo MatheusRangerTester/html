@@ -1,0 +1,2 @@
+navbar.html is connected straight into 1.css style and they both do a navbar style with sections.
+gabriel.html and table.html are about create a table into html
