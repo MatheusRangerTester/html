@@ -1,0 +1,48 @@
+body {
+    padding: ;
+    text-align: center;
+    border-box: center;
+    background-color: green;
+}
+
+.links {
+
+
+
+
+
+}
+
+.navbar {
+    text-align: center;
+    justify-content: center;
+    background-color: blueviolet;
+
+}
+
+.navbar ul {
+
+    list-style-type: disc;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+/* Base Link Styling */
+.navbar a {
+    display: block;
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    /* Smooth transition effect for the color change */
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+/* 1. Change BACKGROUND color on hover */
+.navbar a:hover {
+    background-color: rgb(212, 126, 40);
+}
+/* 2. OPTIONAL: Change TEXT color on hover instead */
+/* 
+.navbar a:hover {
+  color: #ffcc00; 
+}
+*/
